@@ -1,6 +1,0 @@
-0 AS
-1 ASD
-2 Background Noise
-3 MS
-4 Normal
-5 VSD
