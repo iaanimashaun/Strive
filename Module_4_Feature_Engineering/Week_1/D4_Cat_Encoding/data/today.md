@@ -1,0 +1,3 @@
+* The idea of today's exercise is to do a more powerful EDA. For example:
+* do same aggregations, explore one shop in detail, see for a single product how many sales it has across time, what are the most sold * items categories per month...
+* The idea is that you have yo be very curious with the data
